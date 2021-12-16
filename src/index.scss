@@ -1,0 +1,13 @@
+/* GENERAL IMPORTS*/
+@import "./App.scss";
+@import "./scss/themes.scss";
+@import "./scss/grid.scss";
+
+/* COMPONENTS */
+@import "./components/FeedComponent/FeedComponent.scss";
+@import "./components/Header/Header.scss";
+@import "./components/HeaderUserInfo/HeaderUserInfo.scss";
+@import "./components/MainComponent/MainComponent.scss";
+@import "./components/ShortNewsCoponent/ShortNewsCoponent.scss";
+@import "./components/LeaderBoardComponent/LeaderBoardComponent.scss";
+@import "./components/UserPointsComponent/UserPointsComponent.scss";

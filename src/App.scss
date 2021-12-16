@@ -1,0 +1,11 @@
+@import "./scss/themes.scss";
+
+body {
+	background-color: $bg-color;
+	padding: 0;
+	margin: 0;
+}
+* {
+	margin: 0;
+	padding: 0; 
+}
